@@ -1,8 +1,8 @@
-haskell-test-framework-hunit (0.3.0.2-deepin1) unstable; urgency=medium
+haskell-test-framework-hunit (0.3.0.2-8) unstable; urgency=medium
 
-  * Rebuild
+  * Sourceful upload for GHC 9.
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:41:47 +0800
+ -- Clint Adams <clint@debian.org>  Tue, 14 Jun 2022 21:20:24 -0400
 
 haskell-test-framework-hunit (0.3.0.2-7) unstable; urgency=medium
 
